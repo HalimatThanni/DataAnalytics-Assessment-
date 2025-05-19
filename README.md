@@ -1,5 +1,7 @@
 # Adashi DataAnalytics-Assessment
 
+<img width="1000" height="500" alt="card-3" src="https://github.com/user-attachments/assets/3e1ed855-7759-4135-abba-1345f080c90d" />
+
 ## Introduction
 Hello! My name is Halimat Thanni, and this repository contains the SQL queries I developed as part of a data analytics proficiency assessment. The task involved analyzing customer and transaction data for a financial platform, across savings and investment plans.
 
